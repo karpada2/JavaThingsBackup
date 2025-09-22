@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/BattleShip/BattleShip.iml" filepath="$PROJECT_DIR$/fun stuffs/BattleShip/BattleShip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/DND initiative tracker/DND initiative tracker.iml" filepath="$PROJECT_DIR$/fun stuffs/DND initiative tracker/DND initiative tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/DnD dice rolling testing/DnD dice rolling testing.iml" filepath="$PROJECT_DIR$/fun stuffs/DnD dice rolling testing/DnD dice rolling testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/GUILearnViaMinesweeper/GUILearnViaMinesweeper.iml" filepath="$PROJECT_DIR$/fun stuffs/GUILearnViaMinesweeper/GUILearnViaMinesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaThingsBackup.iml" filepath="$PROJECT_DIR$/.idea/JavaThingsBackup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/Poker/Poker.iml" filepath="$PROJECT_DIR$/fun stuffs/Poker/Poker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/cheetSheetTesting/cheetSheetTesting.iml" filepath="$PROJECT_DIR$/kfar yarok/cheetSheetTesting/cheetSheetTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/dice-stats2/dice-stats2.iml" filepath="$PROJECT_DIR$/fun stuffs/dice-stats2/dice-stats2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/examFourPracticeYeah/examFourPracticeYeah.iml" filepath="$PROJECT_DIR$/kfar yarok/examFourPracticeYeah/examFourPracticeYeah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/grrrr i have to learn for bagrut grrrrr/grrrr i have to learn for bagrut grrrrr.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/grrrr i have to learn for bagrut grrrrr/grrrr i have to learn for bagrut grrrrr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/helpingDanielCuzHeIsLoser/helpingDanielCuzHeIsLoser.iml" filepath="$PROJECT_DIR$/fun stuffs/helpingDanielCuzHeIsLoser/helpingDanielCuzHeIsLoser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 1/homework 1.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 1/homework 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 13 apparently/homework 13 apparently.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 13 apparently/homework 13 apparently.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 14 or smth/homework 14 or smth.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 14 or smth/homework 14 or smth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 16.2.23/homework 16.2.23.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 16.2.23/homework 16.2.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework 17/homework 17.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework 17/homework 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 2/homework 2.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 2/homework 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 2.3.23/homework 2.3.23.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 2.3.23/homework 2.3.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 3/homework 3.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 3/homework 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 4/homework 4.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 4/homework 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework 5/homework 5.iml" filepath="$PROJECT_DIR$/kfar yarok/homework 5/homework 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework hanukkah/homework hanukkah.iml" filepath="$PROJECT_DIR$/kfar yarok/homework hanukkah/homework hanukkah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14/homework14.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14/homework14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14Actually/homework14Actually.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14Actually/homework14Actually.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework21/homework21.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework21/homework21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework5/homework5.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework5/homework5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6/homework6.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6/homework6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6actual/homework6actual.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6actual/homework6actual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework8/homework8.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework8/homework8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/homework_whatever/homework_whatever.iml" filepath="$PROJECT_DIR$/kfar yarok/homework_whatever/homework_whatever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/humanBenchmarkAnnihilation/humanBenchmarkAnnihilation.iml" filepath="$PROJECT_DIR$/fun stuffs/humanBenchmarkAnnihilation/humanBenchmarkAnnihilation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson1/lesson1.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson1/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson10/lesson10.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson10/lesson10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson11maybe/lesson11maybe.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson11maybe/lesson11maybe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson14/lesson14.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson14/lesson14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson15/lesson15.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson15/lesson15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson16/lesson16.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson16/lesson16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson17/lesson17.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson17/lesson17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson18/lesson18.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson18/lesson18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson19/lesson19.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson19/lesson19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson20/lesson20.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson20/lesson20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson3/lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson5/lesson5.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson5/lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6/lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6actual/lesson6actual.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6actual/lesson6actual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson7/lesson7.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson7/lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson9/lesson9.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson9/lesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice1/matkonetPractice1.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice1/matkonetPractice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice2/matkonetPractice2.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice2/matkonetPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/meLazy/meLazy.iml" filepath="$PROJECT_DIR$/fun stuffs/meLazy/meLazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/mouse moving to cheat arabic/mouse moving to cheat arabic.iml" filepath="$PROJECT_DIR$/fun stuffs/mouse moving to cheat arabic/mouse moving to cheat arabic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/ofir help interface/ofir help interface.iml" filepath="$PROJECT_DIR$/fun stuffs/ofir help interface/ofir help interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/sheepProblemThing/sheepProblemThing.iml" filepath="$PROJECT_DIR$/fun stuffs/sheepProblemThing/sheepProblemThing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/test2preparation/test2preparation.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/test2preparation/test2preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/two/two.iml" filepath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/two/two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fun stuffs/usefulMiniThings/usefulMiniThings.iml" filepath="$PROJECT_DIR$/fun stuffs/usefulMiniThings/usefulMiniThings.iml" />
+    </modules>
+  </component>
+</project>

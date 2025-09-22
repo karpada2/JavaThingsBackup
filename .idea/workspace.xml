@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9107b0be-5329-4eb5-a239-fc2c20864838" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fun stuffs/BattleShip/BattleShip.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/DnD dice rolling testing/DnD dice rolling testing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/GUILearnViaMinesweeper/GUILearnViaMinesweeper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/Poker/Poker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/dice-stats2/dice-stats2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/helpingDanielCuzHeIsLoser/helpingDanielCuzHeIsLoser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/humanBenchmarkAnnihilation/humanBenchmarkAnnihilation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/meLazy/meLazy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/mouse moving to cheat arabic/mouse moving to cheat arabic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/ofir help interface/ofir help interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/sheepProblemThing/sheepProblemThing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun stuffs/usefulMiniThings/usefulMiniThings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/cheetSheetTesting/cheetSheetTesting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/examFourPracticeYeah/examFourPracticeYeah.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 1/homework 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 13 apparently/homework 13 apparently.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 14 or smth/homework 14 or smth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 16.2.23/homework 16.2.23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 2.3.23/homework 2.3.23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 2/homework 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 3/homework 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 4/homework 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework 5/homework 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework hanukkah/homework hanukkah.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/homework_whatever/homework_whatever.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/grrrr i have to learn for bagrut grrrrr/grrrr i have to learn for bagrut grrrrr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework 17/homework 17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14/homework14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework14Actually/homework14Actually.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework21/homework21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework5/homework5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6/homework6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework6actual/homework6actual.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/homework8/homework8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/homework/two/two.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson1/lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson10/lesson10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson11maybe/lesson11maybe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson14/lesson14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson15/lesson15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson16/lesson16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson17/lesson17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson18/lesson18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson19/lesson19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson20/lesson20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson3/lesson3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson5/lesson5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6/lesson6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson6actual/lesson6actual.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson7/lesson7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/lesson9/lesson9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice1/matkonetPractice1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/matkonetPractice2/matkonetPractice2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kfar yarok/yearTwoLessons/test2preparation/test2preparation.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="31VN5ZJLUeR9ZtwZ96aFkHk5oR4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/electrocaruzo/CodingProjects/JavaThingsBackup"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9107b0be-5329-4eb5-a239-fc2c20864838" name="Changes" comment="" />
+      <created>1755605097892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755605097892</updated>
+    </task>
+    <servers />
+  </component>
+</project>
