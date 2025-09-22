@@ -6,7 +6,8 @@ import java.util.*;
 public class Main {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) throws Exception {
-        String pass = "yantiParazi";
+        System.out.println("Enter wanted password: ");
+        String pass = sc.nextLine();
         pass = pass + "=".repeat((4 - pass.length() % 4) % 4);
         System.out.println("Enter API Key: ");
         String apiKey = sc.nextLine();
