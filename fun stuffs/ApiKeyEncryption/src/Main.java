@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) throws Exception {
         System.out.println("Enter wanted password: ");
         String pass = sc.nextLine();
-        pass = pass + "=".repeat((4 - pass.length() % 4) % 4);
         System.out.println("Enter API Key: ");
         String apiKey = sc.nextLine();
 
